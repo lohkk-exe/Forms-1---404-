@@ -1,0 +1,55 @@
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\bin\Debug\ex2forms.exe.config
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\bin\Debug\ex2forms.exe
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\bin\Debug\ex2forms.pdb
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.AssemblyReference.cache
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.Form1.resources
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.Properties.Resources.resources
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.GenerateResource.cache
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.CoreCompileInputs.cache
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.exe
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.pdb
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\obj\Debug\ex2forms.exe.config
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe.config
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.pdb
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.AssemblyReference.cache
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Properties.Resources.resources
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.GenerateResource.cache
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.CoreCompileInputs.cache
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.pdb
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Form2.resources
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe.config
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.pdb
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.AssemblyReference.cache
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe.config
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Form2.resources
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Properties.Resources.resources
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.GenerateResource.cache
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.CoreCompileInputs.cache
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe
+C:\Users\thami\OneDrive\Documentos\Site 1\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.pdb
+C:\Users\1jd\Documents\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe.config
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe.config
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.pdb
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.AssemblyReference.cache
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe.config
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Form2.resources
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Properties.Resources.resources
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.GenerateResource.cache
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.CoreCompileInputs.cache
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe
+C:\Users\1jd.BGLAB\Documents\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.pdb
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe.config
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.exe
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\bin\Debug\ex2forms.pdb
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.AssemblyReference.cache
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe.config
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Form2.resources
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.Properties.Resources.resources
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.GenerateResource.cache
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.csproj.CoreCompileInputs.cache
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.exe
+C:\VS\ex_forms\L & K\L & K\ex2forms\ex2forms\ex2forms\obj\Debug\ex2forms.pdb

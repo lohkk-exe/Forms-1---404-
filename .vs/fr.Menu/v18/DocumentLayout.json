@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\pular2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\pular2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\pular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\pular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\ex_11xd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\ex_11xd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\ex_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\ex_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.menu\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.menu\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.menu\\omori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\omori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|c:\\users\\2jd\\documents\\fr.workmenu\\fr.workmenu\\fr.menu\\fr.menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.menu\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF8D6C7-99AB-4E59-8704-F8F9563B33B0}|fr.Menu\\fr.Menu.csproj|solutionrelative:fr.menu\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Login.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\Login.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Login.cs",
+              "RelativeToolTip": "fr.Menu\\Login.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:58.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Login.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\Login.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Login.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:51.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pular2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Pular2.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\Pular2.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Pular2.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\Pular2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:44.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pular.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Pular.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\Pular.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Pular.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\Pular.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:43.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex_11xd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\ex_11xd.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\ex_11xd.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\ex_11xd.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\ex_11xd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:39.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex_06.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\ex_06.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\ex_06.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\ex_06.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\ex_06.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:37.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\cat.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\cat.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\cat.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\cat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:59:32.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\clientes.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\clientes.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\clientes.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:27:48.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "omori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\omori.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\omori.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\omori.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\omori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:27:48.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Menu.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:27:48.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\cadastro.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\cadastro.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\cadastro.cs",
+              "RelativeToolTip": "fr.Menu\\cadastro.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwE8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:27:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Program.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\Program.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\Program.cs",
+              "RelativeToolTip": "fr.Menu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:27:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\cadastro.cs",
+              "RelativeDocumentMoniker": "fr.Menu\\cadastro.cs",
+              "ToolTip": "C:\\Users\\2jd\\Documents\\fr.workMenu\\fr.workMenu\\fr.Menu\\fr.Menu\\cadastro.cs [Design]",
+              "RelativeToolTip": "fr.Menu\\cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:27:48.769Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
